@@ -1,19 +1,19 @@
 # Shopify Sales & Conversion Funnel Dashboard
 
-## Project Overview
+## 🚀 Project Overview
 This project features an interactive **Shopify Sales & Conversion Funnel Dashboard** built in **Power BI**.  
 It provides actionable insights into sales performance, customer behavior, and conversion trends to help optimize revenue and marketing strategies.
 
 ---
 
-## Tools Used
+## 🛠 Tools Used
 - Power BI  
 - Excel  
 - DAX  
 
 ---
 
-## Key Features
+## ✨ Key Features
 - Sales trends over time  
 - Regional sales analysis (Province & City)  
 - Sales by payment gateway and product type  
@@ -22,7 +22,7 @@ It provides actionable insights into sales performance, customer behavior, and c
 
 ---
 
-## Dashboard Preview
+## 🖼 Dashboard Preview
 [![Shopify Dashboard](images/dashboard preview.png)](https://raw.githubusercontent.com/rakhi-kumari-ai/Shopify-sales-funnel/main/shopify%20sales%20funnel/images/dashboard%20preview.png)
 
 ---
